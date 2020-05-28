@@ -1,0 +1,18 @@
+	(1)	(2)
+VARIABLES	y	demeaned_y
+		
+d	-15.50	
+	(28.42)	
+unit	-6.700	
+	(9.846)	
+time	45	45.00
+	(28.42)	(27.31)
+demeaned_d		-15.50
+		(27.31)
+Constant	6.900	-67.50
+	(53.33)	(43.10)
+		
+Observations	10	10
+R-squared	0.335	0.284
+Standard errors in parentheses		
+*** p<0.01, ** p<0.05, * p<0.1		
